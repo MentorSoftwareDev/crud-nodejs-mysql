@@ -26,7 +26,7 @@ Node.js: Asegúrate de tener Node.js instalado en tu máquina.
 
 Este comando instalará todas las dependencias necesarias para el proyecto Node.js definidas en el archivo package.json.
 
-3. La aplicación tiene como Base de Datos MySQL, si lo tiene instalado en su computador inicie sesión y abra su cliente MySQL en caso de que utilice PHPMyAdmin ingrese a la pagina. **En caso de no tener instalado MySQL pasar al punto 4**
+3. La aplicación tiene como Base de Datos MySQL, si lo tiene instalado en su computador inicie sesión y abra su cliente MySQL en caso de que utilice PHPMyAdmin ingrese a la pagina (En mi caso yo no tengo clave para el usuario root). **En caso de no tener instalado MySQL pasar al punto 4**
 
 > Crear la base de datos como se especifica en la carpeta database -> archivo db.sql.
 
